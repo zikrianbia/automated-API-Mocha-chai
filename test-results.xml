@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.3530" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-08-23T14:54:05" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Users" timestamp="2022-08-23T14:54:05" tests="1" file="/Users/ziksea/Documents/mocha-chai/automated-API-Mocha-chai/test/messages.js" time="0.1610" failures="0">
+    <testcase name="Users GET Message from spesific user" time="0.1590" classname="GET Message from spesific user">
+    </testcase>
+  </testsuite>
+  <testsuite name="User" timestamp="2022-08-23T14:54:06" tests="3" file="/Users/ziksea/Documents/mocha-chai/automated-API-Mocha-chai/test/profile.js" time="0.1920" failures="0">
+    <testcase name="User GET Current User /profile/me" time="0.0710" classname="GET Current User /profile/me">
+    </testcase>
+    <testcase name="User PUT /profile" time="0.0620" classname="PUT /profile">
+    </testcase>
+    <testcase name="User School" time="0.0570" classname="School">
+    </testcase>
+  </testsuite>
+</testsuites>
